@@ -1,0 +1,2 @@
+# novice
+just another repository
